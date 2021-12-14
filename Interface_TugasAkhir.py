@@ -1,17 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Aug 24 10:33:54 2019
-
-@author: HP
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May 22 15:10:48 2019
-
-@author: HP
-"""
-
 #Inisialisasi package & Library
 import tkinter as tk
 from tkinter import ttk
